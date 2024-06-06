@@ -9,7 +9,7 @@ The shopify.xlsx dataset contains public data scraped from the Shopify App Store
 	•	categories: Categories of the apps. Each app has multiple categories
 	•	reviews: Each review (row) contains information on user opinion about the related app (rating and comment). Also, it contains the response from the developer if present.
 
-The questions to get answered are below there are screenshots for each question in the Shopify Screenshots folder (ex: question 1.1 corresponds with screenshot 1.1)
+!!!The questions for this project are below. Screenshots for each question are in the Shopify Screenshots folder (ex: question 1.1 corresponds with screenshot 1.1)!!!
 
 Part 1: App Landscape
 First, we’ll find key statistics on the types of apps that are out there. This question uses the Apps table. Make a new sheet in your Power BI (.pibx ) file called App Landscape for this question. Remember to take a screenshot for each question answered.
